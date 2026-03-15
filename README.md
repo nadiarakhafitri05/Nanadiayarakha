@@ -35,8 +35,8 @@ Before running this project, make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   cd purple-palette-portfolio
+   git clone https://github.com/nadiarakhafitri05/Nanadiayarakha.git
+   cd Nanadiayarakha
    ```
 
 2. **Install dependencies**
@@ -52,7 +52,7 @@ Before running this project, make sure you have the following installed:
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the application
+   Navigate to `http://localhost:8080` to view the application
 
 ## 📜 Available Scripts
 
